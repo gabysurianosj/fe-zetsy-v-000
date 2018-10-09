@@ -37,8 +37,8 @@ header a:hover{
   color: rgb(111,127,122);
 }
 
-#about img{
-  border: 5px solid #98ADA6;
+#featuerd img{
+  border: 5px #98ADA6 solid;
   margin-top: 0;
 }
 
@@ -57,11 +57,11 @@ p {
   color: rgb(23,131,187);
 }
 
-#more {
+#featured {
   text-decoration:none;
 }
 
-#more:hover {
+#featured a:hover {
   text-decoration: underline;
 }
 
